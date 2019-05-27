@@ -4,14 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "postpublic": "echo 'tovar postpublic'",
-    "postinstall": "echo 'tovar postinstall'",
-    "postuninstall": "echo 'tovar postuninstall'",
-    "postversion": "echo 'tovar postversion'",
-    "posttest": "echo 'tovar posttest'",
-    "poststop": "echo 'tovar poststop'",
-    "poststart": "echo 'tovar poststart'",
-    "postrestart": "echo 'tovar postrestart'",
     "prepare": "echo 'tovar prepare'"
   }
 }
