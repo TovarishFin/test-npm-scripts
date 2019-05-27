@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "prepare": "echo 'tovar prepare'"
+    "prepare": "echo 'tovar prepare'",
+    "postinstall": "echo 'tovar postinstall'"
   }
 }
