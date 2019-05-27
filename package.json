@@ -11,6 +11,7 @@
     "posttest": "echo 'tovar posttest'",
     "poststop": "echo 'tovar poststop'",
     "poststart": "echo 'tovar poststart'",
-    "postrestart": "echo 'tovar postrestart'"
+    "postrestart": "echo 'tovar postrestart'",
+    "prepare": "echo 'tovar prepare'"
   }
 }
